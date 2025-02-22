@@ -1,0 +1,8 @@
+cftShift/fileFilter/Producer.class
+cftShift/fileFilter/FileContentSorter.class
+cftShift/fileFilter/Consumer.class
+cftShift/fileFilter/Sorter.class
+cftShift/fileFilter/Statistics.class
+cftShift/fileFilter/Config.class
+cftShift/fileFilter/ArgsValidator.class
+cftShift/fileFilter/Main.class
